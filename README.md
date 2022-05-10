@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ayham-kattan
+- 👀 I’m interested to get job and learning more
+- 🌱 I’m currently learning data analysis
+- 📫 my portfolio :https://ayham-myportfolio.netlify.app/
